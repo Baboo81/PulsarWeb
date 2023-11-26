@@ -1,0 +1,11 @@
+footer
+{
+    height: 400px;
+    background-color: lightskyblue;
+}
+
+#mapid
+{
+    height: 300px;
+    border-radius: 10px;
+}
