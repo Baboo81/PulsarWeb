@@ -6,6 +6,10 @@ const HomePage = () => {
 
     return (
         <>
+            <section className= {style.banner}>
+                <h1>amme</h1>
+                
+            </section>
         </>  
     )
 }
