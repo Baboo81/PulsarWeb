@@ -1,0 +1,18 @@
+:root
+{
+    --bleu : #1d2c49;
+    --orange : #fb5724;
+}
+
+nav
+{
+    background-color: var(--bleu);
+}
+
+.text
+{
+    color: var(--orange);
+    text-decoration: none;
+    font-size: 2em;
+    
+}

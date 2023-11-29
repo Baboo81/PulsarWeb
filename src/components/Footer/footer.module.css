@@ -1,7 +1,13 @@
+:root
+{
+    --bleu : #1d2c49;
+    --orange : #fb5724;
+}
+
 footer
 {
     height: 400px;
-    background-color: lightskyblue;
+    background-color: var(--bleu);
 }
 
 .map

@@ -3,7 +3,7 @@ import { link } from "react-router-dom";
 import style from './footer.module.css';
 
 
-const position = [50.709925, 4.352603];
+
 const Footer = () => (
 
     <footer className="w-100 text-center">
