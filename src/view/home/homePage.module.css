@@ -10,14 +10,15 @@ section
 {
     height: 1000px;
     text-align: start;
-    background-color: var(--bleu);
+    background: var(--bleu); 
    
 }
 
 h1
 {
-    text-align: center;
+    text-align: end;
     font-family: 'Anton', sans-serif;
+    padding-right: 5%;
     
 }
 
@@ -25,5 +26,5 @@ p
 {
     font-family: 'Anton', sans-serif;
     color: var(--orange);
-    font-size: 4em;
+    font-size: 1.5em;
 }

@@ -9,10 +9,8 @@ nav
     background-color: var(--bleu);
 }
 
-.text
+img
 {
-    color: var(--orange);
-    text-decoration: none;
-    font-size: 2em;
-    
+    height: 5em;
+    width: 5em;
 }

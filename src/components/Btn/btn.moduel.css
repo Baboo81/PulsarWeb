@@ -1,0 +1,15 @@
+:root
+{
+    --bleu : #1d2c49;
+    --orange : #fb5724;
+}
+
+button
+{
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    border: 1px solid var(--orange);
+    background-color: var(--bleu);
+    color: var(--orange);
+}
