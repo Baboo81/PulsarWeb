@@ -11,6 +11,11 @@ nav
     background-color: var(--noir);
 }
 
+.nav-link
+{
+    color: var(--beige);
+}
+
 img
 {
     height: 5em;
