@@ -5,8 +5,8 @@ import Navbar from '../../components/NavBar/Navbar';
 import Footer from '../../components/Footer/Footer';
 import Btn from '../../components/Btn/BtnStyle';
 
-const title = "amme"; 
-const title2 = "Fiduciaire";
+const title = "Pulsar"; 
+const title2 = "WEB";
 const skills = [
     'La qualité du suivi',
     'Approche digitalisée',
@@ -49,8 +49,8 @@ const HomePage = () => {
                             </p>
                         </div>
                         <div class="col-md-6">
-                            <Title color="#fb5724" fontSize="16em"/>
-                            <Title2 color="#fb5724" fontSize="10em"/>
+                            <Title color="#6486ac" fontSize="16em"/>
+                            <Title2 color="#6486ac" fontSize="10em"/>
                         </div>
                     </div>
                 </div>

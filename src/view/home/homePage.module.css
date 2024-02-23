@@ -2,15 +2,17 @@
 
 :root
 {
-    --bleu : #1d2c49;
-    --orange : #fb5724;
+    --noir : #08091b;
+    --bleu : #6486ac;
+    --gris : #c0bfc4;
+    --beige : #eedfc2;
 }
 
 section
 {
     height: 1000px;
     text-align: start;
-    background: var(--bleu); 
+    background: var(--noir); 
    
 }
 
@@ -25,6 +27,6 @@ h1
 p
 {
     font-family: 'Anton', sans-serif;
-    color: var(--orange);
+    color: var(--beige);
     font-size: 1.5em;
 }
